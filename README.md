@@ -1,6 +1,6 @@
 lichess.org
 ===========
-
+用 scala + akka + play2 实现的多人在线国际象棋应用 
 Complete source code of http://lichess.org,
 using Scala 2.10.1, Play 2.1, Akka 2, ReactiveMongo and Scalaz 
 
